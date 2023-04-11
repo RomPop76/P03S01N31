@@ -36,7 +36,7 @@ function showUsers(owner, ...others) {
 }
 
 // showUsers("Adrian");
-// showUsers("Adrian", "Jadzia", "Staszek", "Henio");
+showUsers("Adrian", "Jadzia", "Staszek", "Henio");
 
 
 /* ---------------------------------------- */
